@@ -1,0 +1,15 @@
+### Theme
+romkatv/powerlevel10k
+
+### Framework: oh-my-zsh
+ohmyzsh/ohmyzsh path:lib/clipboard.zsh
+ohmyzsh/ohmyzsh path:lib/nvm.zsh
+
+ohmyzsh/ohmyzsh path:plugins/copypath
+ohmyzsh/ohmyzsh path:plugins/emacs
+ohmyzsh/ohmyzsh path:plugins/macos
+
+### Community Project: zsh-users
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting kind:defer
+zsh-users/zsh-completions path:src kind:fpath
